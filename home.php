@@ -43,6 +43,8 @@
  				<h3>Register Below &nbsp &nbsp<i class="fa fa-hand-o-down" aria-hidden="true"></i></h3>
  				<hr>
           <a href="registration.php" class="btn btn-default btn-lg" role="button" aria-pressed="true">Sign Up!</a>
+          <!-- New button initiating phone call to 100 -->
+          <a href="tel:100" class="btn btn-primary btn-lg" role="button">Call 100</a>
  			</div>
  		</div>
  	</div>
